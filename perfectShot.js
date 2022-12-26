@@ -16,5 +16,3 @@ finalPosition = function (moves) {
   }
   return [x, y];
 }
-
-console.log(finalPosition)
