@@ -12,10 +12,14 @@
 
 // console.log("Hello" % 10);
 
-function makeLine(length) {
-  var line = "";
-  for (var j = 1; j <= length; j++) {
-    line += "* "
-  }
-  return line + "\n";
+// function makeLine(length) {
+//   var line = "";
+//   for (var j = 1; j <= length; j++) {
+//     line += "* "
+//   }
+//   return line + "\n";
+// }
+
+function judgeVegetable (veggie,characteristic) {
+  
 }
